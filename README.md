@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="texixteen official logo" align="center"/>
+<p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="texixteen official logo"/></p>
 <h1 align="center">Hi 👋, We're texixteen</h1>
 <img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png" alt="texixteen official banner"/>
 <h3 align="center">A passionate group of Developers</h3>
