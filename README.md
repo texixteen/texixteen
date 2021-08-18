@@ -7,7 +7,7 @@
 
 - 💬 Ask about **any newest modern web technologies**
 
-- 📫 How to reach me **texixteen@gamil.com**
+- 📫 How to reach us 👉 **texixteen@gamil.com**
 
 - ⚡ Fun fact **We have just started our journey!**
 
