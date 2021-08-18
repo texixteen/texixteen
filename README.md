@@ -1,4 +1,6 @@
+<img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogo.png" alt="texixteen official logo"/>
 <h1 align="center">Hi 👋, We're texixteen</h1>
+<img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenBanner.png" alt="texixteen official banner"/>
 <h3 align="center">A passionate group of Developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=texixteen&label=Profile%20views&color=0e75b6&style=flat" alt="texixteen" /> </p>
