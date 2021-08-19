@@ -1,6 +1,7 @@
-<p align="center">![Profile logo](https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="Profile logo"/></p>
 <h1 align="center">Hi 👋, we're texixteen</h1>
-![Banner](https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png)
+<hr/>
+<p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png/"></p>
 <h3 align="center">A passionate group of developers from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=texixteen&label=Profile%20views&color=0e75b6&style=flat" alt="texixteen" /> </p>
