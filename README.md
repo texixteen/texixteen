@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="texixteen official logo"/></p>
-### Hi there 👋, we're texixteen
-#### A passionate group of Developers
+### Hi there 👋, we're texixteen### 
 ![A passionate group of Developers](https://github.com/texixteen/texixteen/blob/main/banner/texisteenGitHubBanner.png)
+# A passionate group of Developers
 
 "texixteen" is all about teaching web development skills and techniques in a practical manner that will be helpful for those who are just getting started in web development. "texixteen" will help you to build up yourself with all the newest and most popular technologies to convert you from a no stack to a full stack developer.
 
