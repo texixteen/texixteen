@@ -1,14 +1,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="Profile logo"/></p>
 <h1 align="center">Hi 👋, we're texixteen</h1>
-<hr/>
-<p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png/"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png" alt="Banner"/></p>
 <h3 align="center">A passionate group of developers from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=texixteen&label=Profile%20views&color=0e75b6&style=flat" alt="texixteen" /> </p>
 
 - 🔭 We're currently working on [YouTube project](https://www.youtube.com/channel/UC-qJ04QpuFEWUSwoSTrwm-A)
 
-- 👨‍💻 All of our projects are available at [https://github.com/texixteen/t](https://github.com/texixteen/t)
+- 👨‍💻 All of our projects are available at [https://github.com/texixteen/t](https://github.com/texixteen)
 
 - 💬 Ask me about **web related things**
 
