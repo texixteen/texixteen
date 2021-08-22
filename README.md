@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/logo/texixteenLogoGitHubBackground.png" alt="Profile logo"/></p>
-<h1 align="center">Hi 👋, we're texixteen</h1>
+<h1 align="center">Hi 👋, we're texixteen team!</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/texixteen/texixteen/main/banner/texisteenGitHubBanner.png" alt="Banner"/></p>
 <h3 align="center">A passionate group of developers from Bangladesh</h3>
 
